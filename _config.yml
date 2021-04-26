@@ -28,11 +28,11 @@ urls:
 
 author_logo: profile.png
 author: Roshan Gardi
-author_bio: Hi, my name is Roshan Gardi. I'm a DevOps Engineer and software development enthusiast :D
+author_bio: Hi, my name is Roshan Gardi. #I'm a DevOps Engineer and software development enthusiast :D
 author_email: "mail@roshan.gardi002@gmail.com"
-author_location: India
+author_location: Los Angeles, USA.
 author_website_url: "https://roshangardi.github.io/"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+typewrite-text: I'm a DevOps Engineer and software development enthusiast :D
 
 # Experiences
 author_work_experiences:
