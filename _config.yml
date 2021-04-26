@@ -1,7 +1,7 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Roshan Gardi
+subtitle: Well, hello. Bonjour, salut.
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+# devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,35 +27,35 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@roshangardi.com"
+author: Roshan Gardi
+author_bio: Hi, my name is Roshan Gardi. I'm a DevOps Engineer and software development enthusiast :D
+author_email: "mail@roshan.gardi002@gmail.com"
 author_location: India
-author_website_url: "https://roshangardi.com"
+author_website_url: "https://roshangardi.github.io/"
 typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Capgemini
+              # company_logo: google.png
+              company_url: https://www.capgemini.com/us-en/
+              designation: DevOps Engineer
+              # description: Worked on various Google Products
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+            # - company_name: Microsoft
+            #   company_logo: microsoft.png
+            #   company_url: https://microsoft.com
+            #   designation: Azure Developer
+            #   description: Worked on various Azure Cloud Products
+            #   visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              # - college_logo: mit.png
+                college_name: California State University Long Beach
+                college_url: https://www.csulb.edu/
+                college_degree: Computer Science
+                description: Masters in Computer Science
                 visibility: true
 
 # Projects

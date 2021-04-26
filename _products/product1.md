@@ -1,6 +1,6 @@
 ---
 identifier: john-doe-tshrirt
-name: John Doe Tshirt
+name: Roshan Gardi Tshirt
 price: 50
 image: /assets/img/products/product1.jpg
 ---
