@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["roshan.gardi002@gmail.com"]
 
   spec.summary       = %q{ A Jekyll Theme built for developers }
-  spec.homepage      = "https://github.com/roshangardi/devlopr-jekyll"
+  spec.homepage      = "https://github.com/roshangardi/roshangardi.github.io"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
