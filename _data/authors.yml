@@ -1,49 +1,45 @@
 # Add Authors here
-johndoe:
-   name: John Doe
-   username: johndoe
-   site: http://johndoe.com
-   avatar: johndoe.png
-   bio: "Hi I a John, a Web Developer and Designer."
-   email: mail@johndoe.com
+roshangardi:
+   name: Roshan Gardi
+   username: roshangardi
+   site: http://roshangardi.com
+   avatar: roshangardi.png
+   bio: "Hi I a Roshan, a DevOps Engineer and love for Software Development."
+   email: mail@roshangardi.com
    social:
       - title: "github"
-        url: "https://github.com/johndoe"
+        url: "https://github.com/roshangardi"
       - title: "linkedin"
-        url: "https://www.linkedin.com/in/johndoe"
-      - title: "youtube"
-        url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-      - title: "facebook"
-        url: "https://www.facebook.com/johndoe"
+        url: "https://www.linkedin.com/in/roshangardi"
+      # - title: "facebook"
+      #   url: "https://www.facebook.com/roshangardi"
       - title: "twitter"
-        url: "https://www.twitter.com/johndoe"
-      - title: "behance"
-        url: "https://behance.com/johndoe"
-      - title: "instagram"
-        url: "https://instagram.com/johndoe"
+        url: "https://www.twitter.com/roshangardi"
+      # - title: "behance"
+      #   url: "https://behance.com/roshangardi"
+      # - title: "instagram"
+      #   url: "https://instagram.com/roshangardi"
       - title: "medium"
-        url: "https://medium.com/johndoe"
-      - title: "telegram"
-        url: "https://telegram.com/johndoe"
-      - title: "dribbble"
-        url: "https://dribbble.com/johndoe"
+        url: "https://medium.com/roshangardi"
+      # - title: "telegram"
+      #   url: "https://telegram.com/roshangardi"
+      # - title: "dribbble"
+      #   url: "https://dribbble.com/roshangardi"
       - title: "flickr"
-        url: "https://flickr.com/johndoe"
+        url: "https://flickr.com/roshangardi"
 
 xplor4r:
-   name: Sujay kundu
+   name: Roshan Gardi
    username: xplor4r
-   site: https://sujaykundu.com
+   site: https://roshangardi.com
    avatar: xplor4r.png
-   bio: "Full Stack Web Developer, based in Bangalore, India"
-   email: mail@sujaykundu.com
+   bio: "DevOps Engineer, based in Los Angeles, USA."
+   email: mail@roshangardi.com
    social:
       - title: "github"
-        url: "https://github.com/sujaykundu777"
+        url: "https://github.com/roshangardi"
       - title: "linkedin"
-        url: "https://www.linkedin.com/in/sujaykundu"
-      - title: "youtube"
-        url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-      - title: "facebook"
-        url: "https://www.facebook.com/sujay.kundu2"
+        url: "https://www.linkedin.com/in/roshangardi"
+      # - title: "facebook"
+      #   url: "https://www.facebook.com/Roshan.Gardi"
 
