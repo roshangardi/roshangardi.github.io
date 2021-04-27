@@ -37,7 +37,7 @@ typewrite-text: I'm a DevOps Engineer and software development enthusiast :D
 # Experiences
 author_work_experiences:
             - company_name: Capgemini
-              # company_logo: google.png
+              company_logo: capgemini.PNG
               company_url: https://www.capgemini.com/us-en/
               designation: DevOps Engineer
               # description: Worked on various Google Products
@@ -51,7 +51,7 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              # - college_logo: mit.png
+              - college_logo: CSULB.png
                 college_name: California State University Long Beach
                 college_url: https://www.csulb.edu/
                 college_degree: Computer Science
