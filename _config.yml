@@ -15,24 +15,24 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+    # - text: Shop
+    #   url : /shop
     - text: Contact
       url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
+    # - text: Styleguide
+    #   url: /styleguide
+    # - text: Get Started
+    #   url: /get-started
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
 author: Roshan Gardi
-author_bio: Hi, my name is Roshan Gardi. #I'm a DevOps Engineer and software development enthusiast :D
+author_bio: Hi, my name is Roshan Gardi. #I'm a DevOps Engineer and a software development enthusiast :D
 author_email: "mail@roshan.gardi002@gmail.com"
 author_location: Los Angeles, USA.
 author_website_url: "https://roshangardi.github.io/"
-typewrite-text: I'm a DevOps Engineer and software development enthusiast :D
+typewrite-text: I'm a DevOps Engineer and a software development enthusiast :D
 
 # Experiences
 author_work_experiences:
