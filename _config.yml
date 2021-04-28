@@ -73,7 +73,7 @@ author_project_details:
                 visibility: true
               - project_thumbnail: FunctionPointAnalysis.PNG
                 project_title: Function Point Analysis - GUI Application
-                project_description: FPA is a desktop GUI application developed in Python PyQT framework. It is a technique used to measure software requirements based on the different functions that the requirement can be split into. Each function is assigned with some points based on the FPA rules and then these points are summarized using the FPA formula. The final figure shows the total man-hours required to achieve the complete requirement. 
+                project_description: Developed a desktop GUI application in Python PyQT framework. #FPA is a desktop GUI application developed in Python PyQT framework. It is a technique used to measure software requirements based on the different functions that the requirement can be split into. Each function is assigned with some points based on the FPA rules and then these points are summarized using the FPA formula. The final figure shows the total man-hours required to achieve the complete requirement. 
                 project_url: https://github.com/roshangardi/FunctionPointGUI
                 visibility: true
 
