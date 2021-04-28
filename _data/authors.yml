@@ -2,7 +2,7 @@
 roshangardi:
    name: Roshan Gardi
    username: roshangardi
-   site: http://roshangardi.com
+   site: https://roshangardi.github.io/
    avatar: roshangardi.png
    bio: "Hi I a Roshan, a DevOps Engineer and love for a Software Development."
    email: mail@roshangardi.com
@@ -28,18 +28,18 @@ roshangardi:
       - title: "flickr"
         url: "https://flickr.com/roshangardi"
 
-xplor4r:
-   name: Roshan Gardi
-   username: xplor4r
-   site: https://roshangardi.com
-   avatar: xplor4r.png
-   bio: "DevOps Engineer, based in Los Angeles, USA."
-   email: mail@roshangardi.com
-   social:
-      - title: "github"
-        url: "https://github.com/roshangardi"
-      - title: "linkedin"
-        url: "https://www.linkedin.com/in/roshangardi"
-      # - title: "facebook"
-      #   url: "https://www.facebook.com/Roshan.Gardi"
+# xplor4r:
+#    name: Roshan Gardi
+#    username: xplor4r
+#    site: https://roshangardi.com
+#    avatar: xplor4r.png
+#    bio: "DevOps Engineer, based in Los Angeles, USA."
+#    email: mail@roshangardi.com
+#    social:
+#       - title: "github"
+#         url: "https://github.com/roshangardi"
+#       - title: "linkedin"
+#         url: "https://www.linkedin.com/in/roshangardi"
+#       # - title: "facebook"
+#       #   url: "https://www.facebook.com/Roshan.Gardi"
 
