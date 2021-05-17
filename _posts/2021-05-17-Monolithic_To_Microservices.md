@@ -18,8 +18,6 @@ Monolithic all-connected platforms might serve a startup’s needs, but they oft
 
 This topic fosters all kinds of discussions. For some reason, both the microservice and the monolithic approaches generate fanatical devotees. Meaningless discussions without solid arguments often happen when designers have strong feelings about the architecture method they prefer.
 
-### 
-
 **Problems that kill business**
 
 To be clear, monolithic architectures are great. And so are microservices. But each approach serves a specific purpose at a specific point in the timeline of a project. Problems arise when you commit one of these two biggest business killers:
