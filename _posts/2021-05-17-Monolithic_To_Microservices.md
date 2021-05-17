@@ -7,7 +7,7 @@ thumbnail: "/assets/img/posts/monovsmicro.PNG"
 category: cloud
 summary: Transition from monolithic to microsrevices
 keywords: monolithic, microservices
-permalink: "/blog/using-netlify-cms/"
+permalink: "/blog/microvsmono/"
 
 ---
 ***
