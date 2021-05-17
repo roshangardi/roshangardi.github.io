@@ -1,7 +1,6 @@
 title: Roshan Gardi
 subtitle: Geek World!
 description: >- # this means to ignore newlines until "baseurl:"
-# devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -13,14 +12,14 @@ urls:
       url: /about
     - text: Blog
       url: /blog
+    - text: Resume | CV
+      url : /resume/RoshanGardi.pdf
+    - text: Contact
+      url: /contact
     - text: Gallery
       url: /gallery
     # - text: Shop
     #   url : /shop
-    - text: Contact
-      url : /contact
-    - text: Resume/CV
-      url : /resume/RoshanGardi.pdf
     # - text: Styleguide
     #   url: /styleguide
     # - text: Get Started
