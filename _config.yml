@@ -20,7 +20,7 @@ urls:
     - text: Contact
       url : /contact
     - text: Resume/CV
-      url : /resume
+      url : /resume/RoshanGardi.pdf
     # - text: Styleguide
     #   url: /styleguide
     # - text: Get Started
