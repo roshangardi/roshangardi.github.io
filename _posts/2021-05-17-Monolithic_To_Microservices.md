@@ -3,7 +3,7 @@ layout: post
 author: roshangardi
 title: Monolithic To Microservices
 date: 2021-05-17T07:35:20.613+00:00
-thumbnail: "/assets/img/posts/hello.jpg"
+thumbnail: "/assets/img/posts/monovsmicro.PNG"
 category: cloud
 summary: Transition from monolithic to microsrevices
 keywords: monolithic, microservices
