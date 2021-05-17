@@ -19,6 +19,8 @@ urls:
     #   url : /shop
     - text: Contact
       url : /contact
+    - text: Resume/CV
+      url : /resume
     # - text: Styleguide
     #   url: /styleguide
     # - text: Get Started
