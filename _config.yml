@@ -46,7 +46,7 @@ author_work_experiences:
             - company_name: Califonia State University Long Beach
               company_logo: CSULB.png
               company_url: https://www.csulb.edu/
-              designation: Research Assistant  (2021 - Present)
+              designation: Research Assistant  (6 months)
               description: Design and implement a web-based GUI application that models the operation of a steam turbine using Python Django Framework and Javascript.
               visibility: true
             - company_name: Califonia State University Long Beach
@@ -67,6 +67,11 @@ author_education_details:
 
 # Projects
 author_project_details:
+              - project_thumbnail: PipelineJobOverview.PNG
+                project_title: DevOps Docusign Application (Jenkins | Docker | AWS)
+                project_description: Automated Jenkins CI/CD Pipeline to deploy Python Application as a docker container on AWS EC2 instance.
+                project_url: https://github.com/roshangardi/DevOps-Docusign-Application
+                visibility: true
               - project_thumbnail: PythonBlogApplication.PNG
                 project_title: Python Blog Application
                 project_description: Built a blogging application in Python Flask Framework
