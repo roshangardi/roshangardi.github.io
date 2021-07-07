@@ -68,17 +68,22 @@ author_education_details:
 # Projects
 author_project_details:
               - project_thumbnail: PipelineJobOverview.png
-                project_title: DevOps Docusign Application (Jenkins | Docker | AWS)
+                project_title: DevOps Docusign Application (AWS | Jenkins | Docker)
                 project_description: Automated Jenkins CI/CD Pipeline to deploy Python Application as a docker container on AWS EC2 instance.
                 project_url: https://github.com/roshangardi/DevOps-Docusign-Application
                 visibility: true
+              - project_thumbnail: AiflowETL.PNG
+                project_title: Apache Airflow ETL (Airflow | Python | Docker)
+                project_description: ETL Process defined as Airflow job, running on docker container, usign a python DAG file to load data into Oracle Server.
+                project_url: https://github.com/roshangardi/Oracle-ETL-Process
+                visibility: true
               - project_thumbnail: PythonBlogApplication.PNG
-                project_title: Python Blog Application
+                project_title: Python Blog Application (Python | Flask)
                 project_description: Built a blogging application in Python Flask Framework
                 project_url: https://github.com/roshangardi/Python-Flask-Blog-Application
                 visibility: true
               - project_thumbnail: FunctionPointAnalysis.PNG
-                project_title: Function Point Analysis - GUI Application
+                project_title: Function Point Analysis - GUI Application (PyQT)
                 project_description: Developed a desktop GUI application in Python PyQT framework. #FPA is a desktop GUI application developed in Python PyQT framework. It is a technique used to measure software requirements based on the different functions that the requirement can be split into. Each function is assigned with some points based on the FPA rules and then these points are summarized using the FPA formula. The final figure shows the total man-hours required to achieve the complete requirement. 
                 project_url: https://github.com/roshangardi/FunctionPointGUI
                 visibility: true
