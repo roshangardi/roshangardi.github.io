@@ -16,8 +16,8 @@ urls:
       url : /resume/RoshanGardi.pdf
     - text: Contact
       url: /contact
-    - text: Gallery
-      url: /gallery
+#    - text: Gallery
+#      url: /gallery
     # - text: Shop
     #   url : /shop
     # - text: Styleguide
@@ -95,7 +95,7 @@ github_username:  roshangardi
 linkedin_username: roshangardi
 # behance_username: roshangardi
 # instagram_username: roshangardi
-medium_username: roshangardi
+medium_username: roshangardi002
 # telegram_username: roshangardi
 # dribbble_username: roshangardi
 # flickr_username: roshangardi
