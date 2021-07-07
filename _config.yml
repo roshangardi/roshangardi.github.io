@@ -67,7 +67,7 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: PipelineJobOverview.PNG
+              - project_thumbnail: PipelineJobOverview.png
                 project_title: DevOps Docusign Application (Jenkins | Docker | AWS)
                 project_description: Automated Jenkins CI/CD Pipeline to deploy Python Application as a docker container on AWS EC2 instance.
                 project_url: https://github.com/roshangardi/DevOps-Docusign-Application
@@ -75,7 +75,7 @@ author_project_details:
               - project_thumbnail: PythonBlogApplication.PNG
                 project_title: Python Blog Application
                 project_description: Built a blogging application in Python Flask Framework
-                project_url: https://github.com/roshangardi/Flask_Blog
+                project_url: https://github.com/roshangardi/Python-Flask-Blog-Application
                 visibility: true
               - project_thumbnail: FunctionPointAnalysis.PNG
                 project_title: Function Point Analysis - GUI Application
