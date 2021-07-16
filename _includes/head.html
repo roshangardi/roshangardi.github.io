@@ -22,15 +22,15 @@
   {% if page.noindex %}
   <meta name="robots" content="noindex" />
   {% endif %} {% if page.title %}
-  <meta content="{{ page.title }}" property="og:title" />
-  <meta content="article" property="og:type" />
+  <meta content="Roshan Gardi's Portfolio" property="og:title" />
+  <meta content="Website" property="og:type" />
   {% else %}
-  <meta content="{{ site.title }}" property="og:title" />
+  <meta content="Roshan Gardi's Portfolio" property="og:title" />
   <meta content="website" property="og:type" />
   {% endif %} {% if page.summary %}
-  <meta content="{{ page.summary }}" property="og:description" />
+  <meta content="Roshan Gardi's Portfolio" property="og:description" />
   {% else %}
-  <meta content="{{ site.description }}" property="og:description" />
+  <meta content="Roshan Gardi's Portfolio" property="og:description" />
   {% endif %} {% if page.url %}
   <meta content="{{ site.url }}{{ page.url }}" property="og:url" />
   {% endif %} {% if page.date %}
@@ -40,7 +40,7 @@
   />
   <meta content="{{ site.url }}/about/" property="article:author" />
   {% endif %} {% if page.thumbnail %}
-  <meta content="{{ site.url }}{{ page.thumbnail }}" property="og:image" />
+  <meta content="https://source.unsplash.com/DtDlVpy-vvQ/1600x900" property="og:image" />
   {% endif %} {% if page.categories %} {% for category in page.categories
   limit:1 %}
   <meta content="{{ category }}" property="article:section" />
