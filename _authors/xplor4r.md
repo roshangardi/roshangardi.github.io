@@ -1,7 +1,7 @@
 ---
 name: Roshan Gardi
 username: xplor4r
-bio: "DevOps Engineer, based in Los Angeles, USA."
+bio: "Software Developer, based in Los Angeles, USA."
 site: https://roshangardi.github.io
 avatar: xplor4r.png
 email: mail@roshan.gardi002@gmail.com

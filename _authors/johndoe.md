@@ -1,7 +1,7 @@
 ---
 name: Roshan Gardi
 username: roshangardi
-bio: "DevOps Engineer and software development enthusiast"
+bio: "Software Development enthusiast"
 site: http://roshangardi.github.io
 avatar: roshangardi.png
 email: mail@roshan.gardi002@gmail.com
